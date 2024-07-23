@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DataLager/1.0.0": {
+        "dependencies": {
+          "EntitetsLager": "1.0.0"
+        },
+        "runtime": {
+          "DataLager.dll": {}
+        }
+      },
+      "EntitetsLager/1.0.0": {
+        "runtime": {
+          "EntitetsLager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataLager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntitetsLager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

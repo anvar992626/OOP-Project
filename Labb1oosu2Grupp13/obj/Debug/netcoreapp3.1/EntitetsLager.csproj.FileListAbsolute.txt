@@ -1,0 +1,123 @@
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.runtimeconfig.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\bin\Debug\netcoreapp3.1\EntitetsLager.runtimeconfig.dev.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Labb1oosu2Grupp13\obj\Debug\netcoreapp3.1\EntitetsLager.genruntimeconfig.cache

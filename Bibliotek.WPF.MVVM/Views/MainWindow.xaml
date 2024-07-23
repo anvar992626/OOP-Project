@@ -1,0 +1,103 @@
+﻿<Window x:Class="Bibliotek.WPF.MVVM.Views.MainWindow" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:local="clr-namespace:Bibliotek.WPF.MVVM"
+        xmlns:vm="clr-namespace:Bibliotek.WPF.MVVM.ViewModels" 
+        mc:Ignorable="d" 
+        Title="MainWindow" Height="550" Width="800">
+
+    <Window.DataContext>
+        <vm:Mainwindow/>
+    </Window.DataContext>
+
+    <DockPanel LastChildFill="True">
+        <Menu DockPanel.Dock="Top" Background="LightBlue" Margin="10,10,10,10">
+            <MenuItem Header="_File">
+
+                <MenuItem Header="E_xit" Command="{Binding ExitCommand}" />
+            </MenuItem>
+        </Menu>
+
+
+        <TabControl>
+            <TabItem Header="Bokning" DataContext="{Binding Bokning}">
+
+                <!-- Lägg till innehåll för Bokning-fliken här -->
+                <Grid Margin="0,0,0,0">
+                    <DataGrid x:Name="bokLista" Grid.Column="0" ItemsSource="{Binding TillgängligaBöcker}"
+                      AutoGenerateColumns="False" SelectionMode="Single"
+                      SelectionUnit="FullRow" IsReadOnly="True"
+                      SelectedItem="{Binding BöckerSelectedItem, Mode=TwoWay}"    
+                      SelectedIndex="{Binding BöckerSelectedIndex, Mode=TwoWay}" Margin="10,38,436,186">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="BokId" Binding="{Binding BokId}" />
+                            <DataGridTextColumn Header="ISPN" Binding="{Binding ISPN}" />
+                            <DataGridTextColumn Header="Boktitel" Binding="{Binding Boktitel}" />
+                            <DataGridTextColumn Header="Tillgänglig" Binding="{Binding Tillgänglig}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <DataGrid x:Name="valdaBöcker" Grid.Column="0" ItemsSource="{Binding ValdaBöcker}"
+                      AutoGenerateColumns="False" SelectionMode="Single"
+                      SelectionUnit="FullRow" IsReadOnly="True"
+                      SelectedItem="{Binding BöckerSelectedItem, Mode=TwoWay}"
+                      SelectedIndex="{Binding BöckerSelectedIndex, Mode=TwoWay}" Margin="436,33,10,186">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="BokId" Binding="{Binding BokId}" />
+                            <DataGridTextColumn Header="ISPN" Binding="{Binding ISPN}" />
+                            <DataGridTextColumn Header="Boktitel" Binding="{Binding Boktitel}" />
+                            <DataGridTextColumn Header="Tillgänglig" Binding="{Binding Tillgänglig}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Button Content="Lägg till" HorizontalAlignment="Center" Command="{Binding AddCommand}" Margin="0,90,0,0" VerticalAlignment="Top" Width="68"/>
+                    <Button Content="Ta bort" HorizontalAlignment="Center" Command="{Binding RemoveCommand}"  Margin="0,154,0,0" VerticalAlignment="Top" Width="69"/>
+                    <DatePicker HorizontalAlignment="Left" Margin="10,364,0,0" VerticalAlignment="Top" Width="137" SelectedDate="{Binding ValtDatum}"/>
+                    <TextBox HorizontalAlignment="Left" Margin="10,314,0,0" TextWrapping="Wrap" Text="{Binding Medlemsnummer}" VerticalAlignment="Top" Width="137"/>
+                    <TextBox HorizontalAlignment="Left" Margin="8,419,0,0" TextWrapping="Wrap" Text="{Binding AntalDagar, Mode=TwoWay}" VerticalAlignment="Top" Width="137"/>
+                    <Label Content="Tillgängliga böcker:" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Valda böcker:" HorizontalAlignment="Left" Margin="439,7,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Ange medlemsnummer:" HorizontalAlignment="Left" Margin="10,286,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Ange startdatum:" HorizontalAlignment="Left" Margin="10,338,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Ange antal dagar:" HorizontalAlignment="Left" Margin="8,393,0,0" VerticalAlignment="Top"/>
+                    <Button Content="Bekräfta och skapa bokning" HorizontalAlignment="Left" Margin="516,314,0,0" VerticalAlignment="Top" Height="70" Width="206" Command="{Binding SkapaBokningCommand}"/>
+
+                </Grid>
+
+            </TabItem>
+            <TabItem Header="Återlämning" DataContext="{Binding Återlämning}">
+                <!-- Lägg till innehåll för Återlämning-fliken här -->
+                <Grid Margin="0,0,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="6*"/>
+                        <ColumnDefinition Width="11*"/>
+                        <ColumnDefinition Width="14*"/>
+                        <ColumnDefinition Width="16*"/>
+                        <ColumnDefinition Width="747*"/>
+                    </Grid.ColumnDefinitions>
+                    <DataGrid x:Name="återlämning" Grid.Column="1" ItemsSource="{Binding AktivaBokningar}"
+                      AutoGenerateColumns="False" SelectionMode="Single"
+                      SelectionUnit="FullRow" IsReadOnly="True"
+                      SelectedItem="{Binding AktivaBokningarSelectedItem, Mode=TwoWay}"
+                      SelectedIndex="{Binding AktivaBokningarSelectedIndex, Mode=TwoWay}"
+                      IsEnabled="{Binding IsNotModified}" Margin="4,31,10,161" Grid.ColumnSpan="4">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Bokningsnummer" Binding="{Binding Bokningsnummer}" />
+                            <DataGridTextColumn Header="Aktiv" Binding="{Binding Aktiv}" />
+                            <DataGridTextColumn Header="Medlemsnummer" Binding="{Binding Medlemsnummer}" />
+                            <DataGridTextColumn Header="Utlämningsdatum" Binding="{Binding Utlämningsdatum}" />
+                            <DataGridTextColumn Header="Återlämningsdatum" Binding="{Binding Återlämningsdatum}" />
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Label Content="Aktiva bokningar:" HorizontalAlignment="Left" Margin="4,5,0,0" VerticalAlignment="Top" Grid.ColumnSpan="4" Grid.Column="1"/>
+                    
+                    <Button Content="Returnera" HorizontalAlignment="Left" Margin="638,332,0,0" VerticalAlignment="Top" Height="126" Width="99" Command="{Binding RetuneraCommand}" Grid.Column="4"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+
+</Window>
+

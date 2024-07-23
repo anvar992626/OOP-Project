@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bokningssystem.AffärsLager.Kontroller">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAQAAAAAAAQEACBAAAACCAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kontroller.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="unitOfWork" />
+      <Property Name="LoggedIn" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bokningssystem.DataLager.Repository&lt;T&gt;">
+    <Position X="1.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Bokningssystem.DataLager.UnitOfWork">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="BokningRepos" />
+      <Property Name="BokRepos" />
+      <Property Name="ExpeditRepos" />
+      <Property Name="FakturaRepos" />
+      <Property Name="MedlemRepos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bokningssystem.EntitetsLager.Expedit">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

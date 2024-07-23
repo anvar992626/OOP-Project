@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Bokningssystem.AffärsLager/1.0.0": {
+        "dependencies": {
+          "Bokningssystem.DataLager": "1.0.0",
+          "Bokningssystem.EntitetsLager": "1.0.0"
+        },
+        "runtime": {
+          "Bokningssystem.AffärsLager.dll": {}
+        }
+      },
+      "Bokningssystem.DataLager/1.0.0": {
+        "dependencies": {
+          "Bokningssystem.EntitetsLager": "1.0.0"
+        },
+        "runtime": {
+          "Bokningssystem.DataLager.dll": {}
+        }
+      },
+      "Bokningssystem.EntitetsLager/1.0.0": {
+        "runtime": {
+          "Bokningssystem.EntitetsLager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bokningssystem.AffärsLager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bokningssystem.DataLager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bokningssystem.EntitetsLager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,88 @@
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.deps.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.AssemblyReference.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfoInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfo.cs
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CopyComplete
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.deps.json
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csprojAssemblyReference.cache
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfoInputs.cache
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfo.cs
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CopyComplete
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.deps.json
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.AssemblyReference.cache
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfoInputs.cache
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfo.cs
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CopyComplete
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.deps.json
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.AssemblyReference.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfoInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfo.cs
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CopyComplete
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.deps.json
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.AssemblyReference.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfoInputs.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfo.cs
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CoreCompileInputs.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CopyComplete
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.deps.json
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.AssemblyReference.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfoInputs.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.AssemblyInfo.cs
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CoreCompileInputs.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.csproj.CopyComplete
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.AffärsLager\obj\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb

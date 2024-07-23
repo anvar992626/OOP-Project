@@ -1,0 +1,104 @@
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CopyComplete
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.deps.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.AssemblyReference.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfoInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfo.cs
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CopyComplete
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CopyComplete
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.deps.json
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.AssemblyReference.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfoInputs.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfo.cs
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CoreCompileInputs.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CopyComplete
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CopyComplete
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CopyComplete
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.deps.json
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.AssemblyReference.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfoInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfo.cs
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CopyComplete
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.deps.json
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.AssemblyReference.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfoInputs.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.AssemblyInfo.cs
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CoreCompileInputs.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.csproj.CopyComplete
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bokningssystem.DataLager\obj\Debug\netcoreapp3.1\DataLager.pdb

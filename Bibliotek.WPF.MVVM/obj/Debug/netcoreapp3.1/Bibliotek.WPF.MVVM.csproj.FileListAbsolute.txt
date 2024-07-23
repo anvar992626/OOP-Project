@@ -1,0 +1,545 @@
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.exe
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.deps.json
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.json
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.dev.json
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.AssemblyReference.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.lref
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.g.resources
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfoInputs.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfo.cs
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CopyComplete
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.genruntimeconfig.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.g.cs
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.baml
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.exe
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.dev.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.lref
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.baml
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.g.resources
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CopyComplete
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.genruntimeconfig.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_Content.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Images\HB.jpg
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Images\HB.jpg
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.exe
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.deps.json
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.json
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.dev.json
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.AssemblyReference.cache
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.g.cs
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_Content.g.cs
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.cache
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.lref
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.baml
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.g.resources
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfoInputs.cache
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfo.cs
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CopyComplete
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\DBerg\Downloads\Labb3 (2)\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.genruntimeconfig.cache
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Images\HB.jpg
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.exe
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.deps.json
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.json
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.dev.json
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.AssemblyReference.cache
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.g.cs
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_Content.g.cs
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.cache
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.lref
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.baml
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.g.resources
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfoInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfo.cs
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CopyComplete
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\OOSU2 - Laboration 3\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.genruntimeconfig.cache
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Images\HB.jpg
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.exe
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.deps.json
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.json
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.dev.json
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.AssemblyReference.cache
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.g.cs
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_Content.g.cs
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.cache
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.lref
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.baml
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.g.resources
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfoInputs.cache
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfo.cs
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CopyComplete
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\moloj\Downloads\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.genruntimeconfig.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Images\HB.jpg
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.exe
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.dev.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_Content.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.lref
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.baml
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.g.resources
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CopyComplete
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.genruntimeconfig.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Images\HB.jpg
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.exe
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.dev.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_Content.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.lref
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.baml
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.g.resources
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CopyComplete
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.genruntimeconfig.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Images\HB.jpg
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.exe
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.runtimeconfig.dev.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_Content.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM_MarkupCompile.lref
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\LoggIn.baml
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Views\MainWindow.baml
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.g.resources
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.csproj.CopyComplete
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3.Senaste - kopia\Bibliotek.WPF.MVVM\obj\Debug\netcoreapp3.1\Bibliotek.WPF.MVVM.genruntimeconfig.cache

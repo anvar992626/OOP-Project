@@ -1,0 +1,95 @@
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.exe
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.deps.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.runtimeconfig.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.runtimeconfig.dev.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.AssemblyReference.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfoInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfo.cs
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CopyComplete
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.genruntimeconfig.cache
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.exe
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.deps.json
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.runtimeconfig.json
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.runtimeconfig.dev.json
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csprojAssemblyReference.cache
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfoInputs.cache
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfo.cs
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CopyComplete
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+F:\Desktop\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.AssemblyReference.cache
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfoInputs.cache
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfo.cs
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+C:\Users\DBerg\Downloads\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.AssemblyReference.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfoInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfo.cs
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.exe
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.deps.json
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.runtimeconfig.json
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.runtimeconfig.dev.json
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.AssemblyReference.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfoInputs.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfo.cs
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CoreCompileInputs.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CopyComplete
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13_2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.genruntimeconfig.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.exe
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.deps.json
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.runtimeconfig.json
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.runtimeconfig.dev.json
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.AffärsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.DataLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\bin\Debug\netcoreapp3.1\Bokningssystem.EntitetsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.AssemblyReference.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfoInputs.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.AssemblyInfo.cs
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CoreCompileInputs.cache
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.csproj.CopyComplete
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.dll
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.pdb
+D:\School\VisualStudio2022\OOSU 2\Labb1oosu2Grupp13\Bokningssystem.PresentationsLager\obj\Debug\netcoreapp3.1\Bokningssystem.PresentationsLager.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+﻿
+
+
+
+
+Update-Database -Migrations Initial -StartupProject Bibliotek.WPF.MVVM -Project DatalagerEF -Context DatalagerEF.BibliotekContext
+Add-Migration -Name Initial -StartupProject Bibliotek.WPF.MVVM -Project DatalagerEF -Context DatalagerEF.BibliotekContext -OutputDir Context\Migrations

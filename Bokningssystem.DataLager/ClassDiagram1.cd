@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bokningssystem.DataLager.Repository&lt;T&gt;">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAIAAAAAABAAAAABAQAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="table" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bokningssystem.DataLager.UnitOfWork">
+    <Position X="12.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAIAAAAEAAAAAAAAAAAAAAAAACDAAAAAAAAAAAAQ=</HashCode>
+      <FileName>UnitOfWork.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BokRepos" />
+      <Property Name="BokningRepos" />
+      <Property Name="ExpeditRepos" />
+      <Property Name="FakturaRepos" />
+      <Property Name="MedlemRepos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bokningssystem.EntitetsLager.Bok">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Bokningssystem.EntitetsLager.Bokning">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="faktura" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bokningssystem.EntitetsLager.Expedit">
+    <Position X="10.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="bokning" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bokningssystem.EntitetsLager.Faktura">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="expedit" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bokningssystem.EntitetsLager.Medlem">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="faktura" />
+      <Property Name="expedit" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="System.Collections.Generic.IList&lt;T&gt;" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

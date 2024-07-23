@@ -1,0 +1,633 @@
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.LoggaIn.resources
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb2 v.2\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+C:\Users\Anvar\Desktop\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+E:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Anvar\Labb1oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Lab 2, Grupp 13, Söndagens\Labb2oosu2Grupp13\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\DataLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\DataLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+D:\Systemvetarutbildningen\Objektorienterad Systemutveckling 2\Laboration 2\Inlämning, Lab 2, Grupp 13\Inlämning, Laboration 2, Grupp 13 - kopia\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\DataLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\DataLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\DBerg\OneDrive\Skrivbord\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\leis9\Downloads\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\Inlämning, Laboration 2, Grupp 13\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.exe
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.deps.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.runtimeconfig.dev.json
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\AffärsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\DatalagerEF.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\EntitetsLager.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.AssemblyReference.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.HuvudMeny.resources
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.Inloggning.resources
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.SkapaBokning.resources
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.Återlämning.resources
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.GenerateResource.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfoInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.AssemblyInfo.cs
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.csproj.CopyComplete
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.dll
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.pdb
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\obj\Debug\netcoreapp3.1\WinForm.genruntimeconfig.cache
+C:\Users\leis9\OneDrive\Skrivbord\Laboration 3 (COMBO)\Laboration 3 (1)\Laboration 3\Labb3\WinForm\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

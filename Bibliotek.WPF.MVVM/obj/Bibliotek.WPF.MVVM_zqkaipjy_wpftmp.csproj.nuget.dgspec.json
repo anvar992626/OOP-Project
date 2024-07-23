@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bibliotek.WPF.MVVM\\Bibliotek.WPF.MVVM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bibliotek.WPF.MVVM\\Bibliotek.WPF.MVVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bibliotek.WPF.MVVM\\Bibliotek.WPF.MVVM.csproj",
+        "projectName": "Bibliotek.WPF.MVVM",
+        "projectPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bibliotek.WPF.MVVM\\Bibliotek.WPF.MVVM.csproj",
+        "packagesPath": "C:\\Users\\DBerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bibliotek.WPF.MVVM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DBerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bokningssystem.AffärsLager\\AffärsLager.csproj": {
+                "projectPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bokningssystem.AffärsLager\\AffärsLager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bokningssystem.AffärsLager\\AffärsLager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bokningssystem.AffärsLager\\AffärsLager.csproj",
+        "projectName": "AffärsLager",
+        "projectPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bokningssystem.AffärsLager\\AffärsLager.csproj",
+        "packagesPath": "C:\\Users\\DBerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Bokningssystem.AffärsLager\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DBerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\DatalagerEF\\DatalagerEF.csproj": {
+                "projectPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\DatalagerEF\\DatalagerEF.csproj"
+              },
+              "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Labb1oosu2Grupp13\\EntitetsLager.csproj": {
+                "projectPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Labb1oosu2Grupp13\\EntitetsLager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\DatalagerEF\\DatalagerEF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\DatalagerEF\\DatalagerEF.csproj",
+        "projectName": "DatalagerEF",
+        "projectPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\DatalagerEF\\DatalagerEF.csproj",
+        "packagesPath": "C:\\Users\\DBerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\DatalagerEF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DBerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Labb1oosu2Grupp13\\EntitetsLager.csproj": {
+                "projectPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Labb1oosu2Grupp13\\EntitetsLager.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Labb1oosu2Grupp13\\EntitetsLager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Labb1oosu2Grupp13\\EntitetsLager.csproj",
+        "projectName": "EntitetsLager",
+        "projectPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Labb1oosu2Grupp13\\EntitetsLager.csproj",
+        "packagesPath": "C:\\Users\\DBerg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DBerg\\OneDrive\\Skrivbord\\OOSU2 - Laboration 3\\Laboration 3\\Labb3\\Labb1oosu2Grupp13\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DBerg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
